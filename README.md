@@ -2,15 +2,14 @@
 API criada em React integrada com o MongoDB (Configurado para o Atlas).
 Nela é possivel realizar operações CRUD na sua base.
 
-  **CONFIGURAÇÕES** 
+ ###### **CONFIGURAÇÕES** 
 
 - Instale Node JS
 - Instale Visual Studio Code
 - Instale Postman 
 
-   **Bibliotecas usadas**
+ ###### **Bibliotecas usadas**
 
-          **API**
 > - express -> npm install express | Auxilia na configuração de criação do servidor. 
 > - cookieParser -> npm install cookie-parser | Auxilia na comunicação com o servidor, criação de rotas e etc.
 > - mongoose -> npm install mongoose | Auxilia na integração com o mongodb
