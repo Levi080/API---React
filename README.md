@@ -1,4 +1,4 @@
-# CRUD-React
+# CRUD-JS
 API criada em JavaScript integrada com o MongoDB (Configurado para o Atlas).
 Nela é possivel realizar operações CRUD na sua base.
 
